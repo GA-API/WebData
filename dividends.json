@@ -1,0 +1,27 @@
+[
+  {
+    "TotalDividend": 6,
+    "MonthlyDividend": 6,
+    "Date": "2025-01-01"
+  },
+  {
+    "TotalDividend": 18,
+    "MonthlyDividend": 13,
+    "Date": "2025-02-01"
+  },
+  {
+    "TotalDividend": 220,
+    "MonthlyDividend": 202,
+    "Date": "2025-03-01"
+  },
+  {
+    "TotalDividend": 784,
+    "MonthlyDividend": 564,
+    "Date": "2025-04-01"
+  },
+  {
+    "TotalDividend": 922,
+    "MonthlyDividend": 138,
+    "Date": "2025-05-01"
+  }
+]
