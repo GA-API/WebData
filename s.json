@@ -1,32 +1,12 @@
 [
   {
-    "Total": 6,
-    "Monthly": 6,
-    "Date": "2025-01-01"
-  },
-  {
-    "Total": 18,
-    "Monthly": 13,
-    "Date": "2025-02-01"
-  },
-  {
-    "Total": 220,
-    "Monthly": 202,
-    "Date": "2025-03-01"
-  },
-  {
-    "Total": 784,
-    "Monthly": 564,
-    "Date": "2025-04-01"
-  },
-  {
-    "Total": 1384,
-    "Monthly": 600,
+    "Total": 0,
+    "Monthly": 0,
     "Date": "2025-05-01"
   },
   {
-    "Total": 14147,
-    "Monthly": 307,
+    "Total": 0.00034357,
+    "Monthly": 0.00034357,
     "Date": "2025-06-01"
   }
 ]
